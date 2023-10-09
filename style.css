@@ -1,0 +1,28 @@
+html {
+    background-color: black;
+}
+
+#post {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 100px;
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    font-family: 'Young Serif', serif;
+}
+
+.post-img {
+    border: 5px solid white;
+    width: 100%;
+}
+
+h1 {
+    text-transform: uppercase;
+    /* font-size: 50px; */
+    font-size: 3rem;
+}
+
+p {
+    font-size: 25px;
+}
